@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lr_1_ppi", "lr_1_ppi\lr_1_ppi.vcproj", "{F5C67A28-B2FC-4503-8970-04E0F8B22A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5C67A28-B2FC-4503-8970-04E0F8B22A47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5C67A28-B2FC-4503-8970-04E0F8B22A47}.Debug|Win32.Build.0 = Debug|Win32
+		{F5C67A28-B2FC-4503-8970-04E0F8B22A47}.Release|Win32.ActiveCfg = Release|Win32
+		{F5C67A28-B2FC-4503-8970-04E0F8B22A47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
